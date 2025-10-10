@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+.kaggle/
+kaggle.json
+__pycache__/
+*.pyc
+*.pkl
+*.sav
+*.onnx
+*.pt
+.DS_Store
